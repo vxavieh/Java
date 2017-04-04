@@ -13,6 +13,8 @@ public class Tipos {
 		System.out.println("Número de Rodas: " + nroRodas);
 		double peso = 8.75;
 		System.out.println(peso);
+		String FRASE = "Variável String";
+		System.out.println(FRASE);
 	}
 }
 
