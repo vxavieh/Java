@@ -1,7 +1,18 @@
 package java_20170328;
 
-public class Ola {
+/* 
+ * Programa da Aula 04/04/2017
+ */
+
+public class Tipos {
 	public static void main(String[] args) {
-		System.out.println("Hello");
+		System.out.println("Começando classe: Tipos");
+		int nroRodas = 5;
+		System.out.println("Número de Rodas: " + nroRodas);
+		nroRodas = 4;
+		System.out.println("Número de Rodas: " + nroRodas);
+		double peso = 8.75;
+		System.out.println(peso);
 	}
 }
+
